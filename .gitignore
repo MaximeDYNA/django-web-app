@@ -1,0 +1,4 @@
+# Les rertoires de mon éditeur 'Pycharm'
+.idea
+# Ignore les fichiers de base de données SQLite
+db.sqlite3
